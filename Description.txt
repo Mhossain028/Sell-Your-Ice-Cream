@@ -1,0 +1,11 @@
+Suppose you are a Ice cream seller. 
+You buy Ice cream randomly from your diller.
+But in the last you realize your sell is not equal in daily.
+So what can you do?
+
+This AI solution can help you.
+It can predict your customer.
+But if you want to know about your selling rate, then you have to input here your last one month deta.
+Then it could be help you.
+
+Thank you.
